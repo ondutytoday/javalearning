@@ -4,6 +4,7 @@
 # Idea Files
 .idea/
 .idea
+.iml
 
 # Compiled class file
 *.class
