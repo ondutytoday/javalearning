@@ -2,7 +2,8 @@
 /out/
 
 # Idea Files
-
+.idea/
+.idea
 
 # Compiled class file
 *.class
